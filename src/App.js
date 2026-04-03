@@ -3,6 +3,7 @@ import Component from './components/Component';
 import Contador from './components/Contador';
 import Form from './components/Form';
 import Lista from './components/Lista';
+import Evento from './components/Evento';
 
 function App() {
   return (
