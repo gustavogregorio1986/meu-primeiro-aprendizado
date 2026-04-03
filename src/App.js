@@ -12,6 +12,7 @@ function App() {
       <Form />
       <Lista />
       <Contador />
+      <Evento />
     </div>
   );
 }
