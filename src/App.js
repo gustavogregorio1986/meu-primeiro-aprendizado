@@ -1,5 +1,6 @@
 import './App.css';
 import Component from './components/Component';
+import Contador from './components/Contador';
 import Form from './components/Form';
 import Lista from './components/Lista';
 
@@ -10,6 +11,7 @@ function App() {
       <Component /> 
       <Form />
       <Lista />
+      <Contador />
     </div>
   );
 }
